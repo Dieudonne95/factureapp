@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 import plotly.express as px  # Ajout de Plotly pour les graphiques interactifs
 from fpdf import FPDF
 import sqlite3
