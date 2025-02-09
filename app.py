@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px  # Ajout de Plotly pour les graphiques interactifs
+import plotly.express as px 
 from fpdf import FPDF
 import sqlite3
 import base64
