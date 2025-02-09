@@ -3,3 +3,6 @@ pandas
 matplotlib
 plotly
 fpdf
+sqlite3
+os
+base64
